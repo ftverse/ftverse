@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ftverse, my old github accound has gone it's my new one
+- 👋 Hi, I’m @ftverse
 - 👀 I’m interested in quantum computing
 - 🌱 I’m currently learning Algorithmic Design for Architecture
 - 💞️ I’m looking to collaborate on machine learning architecture
